@@ -1,0 +1,172 @@
+LENOVO@Pinky MINGW64 ~/Desktop/DIGITAL HOUSE/INFORMATICA/Git-GitHub-Extra (main)
+$ history
+    1  pwd
+    2  cd
+    3  pwd
+    4  cd /c/users/LENOVO/Desktop
+    5  cd esther
+    6  cd info
+    7  ls -l
+    8  ls
+    9  ls -a
+   10  ls
+   11  touch archivo1
+   12  ls
+   13  touch archivo2.txt archivo3.pdf archivo4.sql
+   14  touch archivo5.jpg
+   15  ls
+   16  ls
+   17  cd..
+   18  exit
+   19  mkdir DH
+   20  cd DH
+   21  mkdir Pelicula
+   22  cd Pelicula
+   23  mkdir Infantiles Accion Terror Comedia Romanticas
+   24  ls
+   25  cd Infantiles
+   26  touch intenzamente "el juego del miedo" "Rapido y Furioso" Titanic
+   27  ls
+   28  cd..
+   29  cd ..
+   30  cd Accion
+   31  touch "Smooth criminal" "Diario de una pasion" " El hexorcista" cars
+   32  cd ..
+   33  cd Terror
+   34  touch "La dama y el bagavundo" " Yo antes de ti" "Que paso ayer" "We will rock you"
+   35  cd ..
+   36  cd Comedia
+   37  touch Madagaskar "Orgullo y prejuicio" IT "Mision imposible"
+   38  cd ..
+   39  cd Romanticas
+   40  touch Pocahontas Annabelle "Los vengadores" "La mascara"
+   41  cd ..
+   42  ls -R
+   43  cd ..
+   44  mkdir /pelicula/Romanticas/Prueba
+   45  mkdir DH/pelicula/Romanticas/Prueba
+   46  mkdir /Romanticas/Prueba
+   47  mkdir Romanticas/Prueba
+   48  mkdir Peliculas/Romanticas/Prueba
+   49  mkdir Prueba Peliculas/Romanticas
+   50  mkdir Prueba Romanticas/Peliculas
+   51  mkdir Prueba Peliculas/Romanticas
+   52  mkdir ./Peliculas/Romanticas/Prueba
+   53  mkdir ./Peliculas/Romanticas/Prueba
+   54  ls
+   55  mkdir ./Pelicula/Romanticas/Prueba
+   56  cd pelicula/Romanticas
+   57  mkdir ../Accion/Prueba2
+   58  cd Desktop/
+   59  mkdir camada03
+   60  cd camada 03
+   61  cd camada03
+   62  mkdir informes
+   63  cd informes
+   64  touch informesAnual.xls
+   65  ls
+   66  mkdir auditoria
+   67  touch auditoria.xls
+   68  touch reporteConsolidado.xls
+   69  ls
+   70  mv auditoria.xls /auditoria/
+   71  mv auditoria.xls ../auditoria/
+   72  mv auditoria.xls Desktop/informes/auditoria/
+   73  ls
+   74  mv auditoria.xls Desktop/informes/auditoria
+   75  mv auditoria.xls /auditoria
+   76  ls
+   77  mv auditoria.xls /auditoria
+   78  mv auditoria.xls /informes/auditoria
+   79  mv auditoria.xls  /auditoria
+   80  sudo mv auditoria.xls  /auditoria
+   81  cd..
+   82  cd ..
+   83  mv /informes/auditoria.xls /informes/auditoria
+   84  ls
+   85  cd informes
+   86  ls
+   87  mv auditoria.xls /auditoria
+   88  mv auditoria.xls ~/auditoria
+   89  ls
+   90  cd auditoria
+   91  ls
+   92  cd ..
+   93  ls
+   94  touch auditoria.xls
+   95  ls
+   96  mv auditoria.xls /auditoria
+   97  chmod 744
+   98  chmod 744 auditoria
+   99  ls -ld auditoria
+  100  mv auditoria.xls ~/auditoria
+  101  ls
+  102  cd auditoria
+  103  ls
+  104  clear
+  105  cd ..
+  106  ls
+  107  touch auditoria.xls
+  108  ls
+  109  mv auditoria.xls ~/Desktop/informes/auditoria
+  110  cd auditoria
+  111  ls
+  112  cd desktop
+  113  ls
+  114  cd camada03
+  115  mkdir Ecommerce
+  116  cd Ecommerce
+  117  touch app.js
+  118  touch config.js
+  119  mkdir db
+  120  git init
+  121  git add
+  122  git add .
+  123  git commit -m "Primer Commit"
+  124  git config --global user.email "zatagloria@gmail.com"
+  125  git config --global user.name "Gloria Zata"
+  126  git commit -m "Primer Commit"
+  127  cd db
+  128  touch producto_db.js
+  129  touch carrito_db.js
+  130  cd..
+  131  cd ..
+  132  git commit -m "guardando lo importante"
+  133  git status
+  134  git add .
+  135  git status
+  136  git commit -m "guardando una parte del proyecto"
+  137  cd db
+  138  rm producto_db.js
+  139  git restore
+  140  rm ../config.js
+  141  git add .
+  142  git commit -m "sacando la configuración"
+  143  git clone https://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@github.com/karango29/Git-GitHub-Extra.git  
+  144  git init
+  145  cd Git-GitHub-Extra
+  146  git pull origin main
+  147  git status
+  148  git log
+  149  cat > resumenHardware.txt
+  150  touch comandos.txt
+  151  history
+152  cat > comandos.txt
+  153  cd ..
+  154  cd
+  155  cd INFORMATICA
+  156  cd ~/Desktop/DIGITAL HOUSE/INFORMATICA
+  157  cd /Desktop/DIGITAL HOUSE/INFORMATICA
+  158  LS
+  159  cd Desktop
+  160  cd DIGITAL HOUSE
+  161  LS
+  162  cd DIGITAL HOUSE
+  163  cd "DIGITAL HOUSE"
+  164  ls
+  165  cd INFORMATICA
+  166  LS
+167  cd Chekpoint-GloriaZata
+  168  cd Checkpoint-GloriaZata
+  169  cat > resumenHardware.txt
+  170  touch comandos.txt
